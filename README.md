@@ -1,5 +1,6 @@
 # Sakila_DVD_Rental_Database_Exercise
-Udacity Course Project - Programming For Data Science with Python
+Udacity Course Project - SQL Lesson
+Programming For Data Science with Python Nanodegree
 
 # Date Created
 December 2020
